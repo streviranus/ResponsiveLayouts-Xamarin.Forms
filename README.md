@@ -1,1 +1,1 @@
-This is a sample app that demos a responsive layout in a Xamarin.Forms project.}
+This is a sample app that demos reusable responsive layout controls in a Xamarin.Forms project.}
